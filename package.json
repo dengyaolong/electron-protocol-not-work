@@ -1,0 +1,24 @@
+{
+  "name": "electron-protocol-not-work",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "electron": "^1.7.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dengyaolong/electron-protocol-not-work.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dengyaolong/electron-protocol-not-work/issues"
+  },
+  "homepage": "https://github.com/dengyaolong/electron-protocol-not-work#readme"
+}
